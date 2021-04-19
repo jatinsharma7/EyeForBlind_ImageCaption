@@ -14,21 +14,21 @@ The dataset is taken from the [Kaggle website](https://www.kaggle.com/adityajn10
 There are four major stages in this solution as described below: <br><br>
 1) **Dataset creation**
 
-![Pipeline1.JPG](attachment:https://github.com/jatinsharma7/EyeForBlind_ImageCaption/blob/main/images/Pipeline1.JPG)
+![Dataset creation](https://github.com/jatinsharma7/EyeForBlind_ImageCaption/blob/main/images/Pipeline1.JPG)
 
 
 2. **Model Building**
 
-![Pipeline2.JPG](attachment:https://github.com/jatinsharma7/EyeForBlind_ImageCaption/blob/main/images/Pipeline2.JPG)
+![Model Building](https://github.com/jatinsharma7/EyeForBlind_ImageCaption/blob/main/images/Pipeline2.JPG)
 
 3. **Model Training**
 
-![Pipeline3.JPG](attachment:https://github.com/jatinsharma7/EyeForBlind_ImageCaption/blob/main/images/Pipeline3.JPG)
+![Model Training](https://github.com/jatinsharma7/EyeForBlind_ImageCaption/blob/main/images/Pipeline3.JPG)
 
 4. **Model Evaluation**
 
-![Pipeline4.JPG](attachment:https://github.com/jatinsharma7/EyeForBlind_ImageCaption/blob/main/images/Pipeline4.JPG)
+![Model Evaluation](https://github.com/jatinsharma7/EyeForBlind_ImageCaption/blob/main/images/Pipeline4.JPG)
 
 # Solution Architecture
 
-![Solution_Architecture.JPG](attachment:https://github.com/jatinsharma7/EyeForBlind_ImageCaption/blob/main/images/Solution_Architecture.JPG")
+![Solution_Architecture](https://github.com/jatinsharma7/EyeForBlind_ImageCaption/blob/main/images/Solution_Architecture.JPG")
