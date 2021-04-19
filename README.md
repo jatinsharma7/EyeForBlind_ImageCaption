@@ -31,4 +31,4 @@ There are four major stages in this solution as described below: <br><br>
 
 # Solution Architecture
 
-![Solution_Architecture](https://github.com/jatinsharma7/EyeForBlind_ImageCaption/blob/main/images/Solution_Architecture.JPG")
+![Solution Architecture](https://github.com/jatinsharma7/EyeForBlind_ImageCaption/blob/main/images/Solution_Architecture.JPG")
